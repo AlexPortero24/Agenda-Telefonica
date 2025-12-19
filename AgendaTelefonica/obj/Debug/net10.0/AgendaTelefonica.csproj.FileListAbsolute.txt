@@ -1,0 +1,14 @@
+C:\Users\David\Documents\ProyectosC#\AgendaTelefonica\obj\Debug\net10.0\AgendaTelefonica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\Documents\ProyectosC#\AgendaTelefonica\obj\Debug\net10.0\AgendaTelefonica.AssemblyInfoInputs.cache
+C:\Users\David\Documents\ProyectosC#\AgendaTelefonica\obj\Debug\net10.0\AgendaTelefonica.AssemblyInfo.cs
+C:\Users\David\Documents\ProyectosC#\AgendaTelefonica\obj\Debug\net10.0\AgendaTelefonica.csproj.CoreCompileInputs.cache
+C:\Users\David\Documents\ProyectosC#\AgendaTelefonica\bin\Debug\net10.0\AgendaTelefonica.exe
+C:\Users\David\Documents\ProyectosC#\AgendaTelefonica\bin\Debug\net10.0\AgendaTelefonica.deps.json
+C:\Users\David\Documents\ProyectosC#\AgendaTelefonica\bin\Debug\net10.0\AgendaTelefonica.runtimeconfig.json
+C:\Users\David\Documents\ProyectosC#\AgendaTelefonica\bin\Debug\net10.0\AgendaTelefonica.dll
+C:\Users\David\Documents\ProyectosC#\AgendaTelefonica\bin\Debug\net10.0\AgendaTelefonica.pdb
+C:\Users\David\Documents\ProyectosC#\AgendaTelefonica\obj\Debug\net10.0\AgendaTelefonica.dll
+C:\Users\David\Documents\ProyectosC#\AgendaTelefonica\obj\Debug\net10.0\refint\AgendaTelefonica.dll
+C:\Users\David\Documents\ProyectosC#\AgendaTelefonica\obj\Debug\net10.0\AgendaTelefonica.pdb
+C:\Users\David\Documents\ProyectosC#\AgendaTelefonica\obj\Debug\net10.0\AgendaTelefonica.genruntimeconfig.cache
+C:\Users\David\Documents\ProyectosC#\AgendaTelefonica\obj\Debug\net10.0\ref\AgendaTelefonica.dll
